@@ -2,7 +2,7 @@
 
 ### Day 1: April 18, 2019
 
-**Today's Progress**: Concluded Responsive Web Design Certification / Basic HTML and HTML5 / Introduction to Basic HTML and HTML5
+**Today's Progress**: Concluded Responsive Web Design Certification > Basic HTML and HTML5 > Introduction to Basic HTML and HTML5
 
 **Thoughts:** This part was really simple. I struggled in one of the exercises as I did not realize that I was supposed to have the two input fields inside separate label tags. This part was simple and easy. CSS next.
 
