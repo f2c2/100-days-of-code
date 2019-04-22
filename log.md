@@ -16,9 +16,25 @@
 
 **Link(s) to work**: [Nothing Yet App](http://nothing.yet)
 
+### Day 3: April 20, 2019
+
+**Today's Progress**: Concluded "Working through Basic CSS". It interesting to understand the priorities around styling elements including inline style declarations and !important. Worked through colors HEX and RGB, CSS variables and fallback values and had one lesson on media queries.
+
+**Thoughts**: The concepts are simple so far and clearly lay the foundations for some more complex topics. Happy to continue!
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
+### Day 4: April 21, 2019
+
+**Today's Progress**: Started "Introduction to the Applied Visual Design Challenges". Interesting to learn align, underline, bold and strikeout  text as well as to create a box shadow.
+
+**Thoughts**: The box shadow is a bit more complex to understand as it requires offset (both x and y axis) and the blur and spread radius for shadowing as well as the colour. Tried moving around the offset-x and offset-y and didn't seem to do anything which was surprising, meaning I don't really follow what it does so I'll keep it at zero. :)
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
 ### Day X: MONTH DAY, 2019
 
-**Today's Progress**:
+**Today's Progress**: opacity, text-transform, font-size/weight, line-height, hover state
 
 **Thoughts**: 
 
