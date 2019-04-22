@@ -34,8 +34,8 @@
 
 ### Day X: MONTH DAY, 2019
 
-**Today's Progress**: opacity, text-transform, font-size/weight, line-height, hover state
+**Today's Progress**: Still working through "Introduction to the Applied Visual Design Challenges". Learned many new things and concepts such as opacity, text-transform, font-size/weight, line-height, hover state, pseudo classes, relative and absolute positioning, float.
 
-**Thoughts**: 
+**Thoughts**: There's a lot of stuff to remember... The relative and absolute positioning are the most complex concepts even though it is clear that an element with absolute positioning is only absolute in relation to its parent, which should have position: relative... I thought that if I wrote it it would make more sense but not really. :)
 
 **Link(s) to work**: [Example App](http://www.example.com)
