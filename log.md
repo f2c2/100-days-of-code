@@ -32,10 +32,34 @@
 
 **Link(s) to work**: [Nothing Yet App](http://nothing.yet)
 
-### Day X: MONTH DAY, 2019
+### Day 5: April 22, 2019
 
 **Today's Progress**: Still working through "Introduction to the Applied Visual Design Challenges". Learned many new things and concepts such as opacity, text-transform, font-size/weight, line-height, hover state, pseudo classes, relative and absolute positioning, float.
 
 **Thoughts**: There's a lot of stuff to remember... The relative and absolute positioning are the most complex concepts even though it is clear that an element with absolute positioning is only absolute in relation to its parent, which should have position: relative... I thought that if I wrote it it would make more sense but not really. :)
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
+### Day 6: April 23, 2019
+
+**Today's Progress**: Still working through "Introduction to the Applied Visual Design Challenges". Learned many new things and concepts such as positioning, float, differences between inline and block elements & started color theory.
+
+**Thoughts**: Positioning with float is a bit awkward but I know it exists. Need to see more practical examples of this. Color theory with RGB, Hex and actual color names. Not sure when to use RGB instead of HEX for example. But moving on :)
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
+### Day 7: April 24, 2019
+
+**Today's Progress**: Still working through "Introduction to the Applied Visual Design Challenges". Today I learned how to adjust the hue and tone of a color, as well as to create a gradual CSS Llinear gradient. Ah and that expressions need to end with ";" or they give you errors that don't point you in the right direction to fix it. *duh*
+
+**Thoughts**: 
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
+### Day X: MONTH DAY, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
 
 **Link(s) to work**: [Example App](http://www.example.com)
