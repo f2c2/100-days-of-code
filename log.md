@@ -56,6 +56,14 @@
 
 **Link(s) to work**: [Nothing Yet App](http://nothing.yet)
 
+### Day 8: April 25th, 2019
+
+**Today's Progress**: Finished with the "Introduction to the Applied Visual Design Challenges". Creating graphics in CSS with the ::before and ::after. CSS Animation and @keyframes properties were quite interesting to learn as well as variable rates and bezier curves.  
+
+**Thoughts**: The graphics part with the ::before and ::after was quite surprising. Wasn't aware you could do a lot of these things with CSS and thought this would be JavaScript or some other way to create animations. The number is keywords is getting staggering and honestly can't remeber all in an instant. Knowing the concepts is great but I will more than likely have to refer to somewhere when I'll start from scratch. 
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
 ### Day X: MONTH DAY, 2019
 
 **Today's Progress**:
