@@ -64,6 +64,14 @@
 
 **Link(s) to work**: [Nothing Yet App](http://nothing.yet)
 
+### Day 9: April 27th, 2019
+
+**Today's Progress**: Started with "Applied Accessibility". Understanding the relationship between accessibility and certain tags is very important. Learned about the use of ALT and other tags such as <header> <audio> <footer> <nav> <article> <section> <main>. Interesting how <header> <footer> <nav> <article> <section> are in all effects a <div> but the difference is really due to accessibility and how screen readers use these specific tags to aid people that are visually impared.
+
+**Thoughts**: It's really important to design for accessibility to ensure that people that cannot read can still benefit from the information a website. 
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
 ### Day X: MONTH DAY, 2019
 
 **Today's Progress**:
