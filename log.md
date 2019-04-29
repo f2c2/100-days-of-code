@@ -72,6 +72,14 @@
 
 **Link(s) to work**: [Nothing Yet App](http://nothing.yet)
 
+### Day 10: April 29th, 2019
+
+**Today's Progress**: Finished "Applied Accessibility". Interesting how using CSS to position text away from the screen visibility to allow screen readers to read it. Never thought about it. While I understood the concept, I honestly didn't understand how it then works, or how does the scrfeen reader reads a table, for example, but I hope there will some more about it ahead, or I will have to find more information as I won't be able to implement it. 
+
+**Thoughts**: What I learned from this module is that accessibility is probably a subject on its own. I realized I don't really understand the challenges faced by visually impaired persons or what the technology does and what it can do to assist people. While I know its an issue, never REALLY thought about. #FeelingGuilty 
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
 ### Day X: MONTH DAY, 2019
 
 **Today's Progress**:
