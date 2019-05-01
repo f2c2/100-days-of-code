@@ -80,6 +80,14 @@
 
 **Link(s) to work**: [Nothing Yet App](http://nothing.yet)
 
+### Day 11: May 1st, 2019
+
+**Today's Progress**: Finished the Responsive Web Design Challenges. The viewport concept is definitely interesting, more so due to mobile devices. Also understood something about image responsiveness that I had a question on. Learned vh, vw, vmin and vmax as options to em and px. Learned media queries and image responsiveness as well as "retina images".
+
+**Thoughts**: Short module but key concepts. Interesting p+oint on image responsiveness that regardless of "width: 100%" the image does not go over it's max width, an issue I faced before and couldn't figure out.
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
 ### Day X: MONTH DAY, 2019
 
 **Today's Progress**:
