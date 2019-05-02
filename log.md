@@ -88,6 +88,14 @@
 
 **Link(s) to work**: [Nothing Yet App](http://nothing.yet)
 
+### Day 12: May 2nd, 2019
+
+**Today's Progress**: Finished the "Introduction to the CSS Flexbox Challenges" - Flexbox seems to be a really powerful way to organize content. In reality you're still using <div> but with CSS you justify, align and manage positioning and spacing of elements within rows/col.
+
+**Thoughts**: Honestly there was a lot of content. Hope I can at least remember that there was a lot of options to justify and align and that I can search for it as I will definitely not remember it all...
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
 ### Day X: MONTH DAY, 2019
 
 **Today's Progress**:
