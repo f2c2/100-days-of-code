@@ -96,6 +96,14 @@
 
 **Link(s) to work**: [Nothing Yet App](http://nothing.yet)
 
+### Day 13: May 3rd, 2019
+
+**Today's Progress**: Finished the "Introduction to the CSS Grid Challenges". It was probably my favourite module so far. The power of grids combined with media queries for example seems great. There are too many options to remember them all but I will fall back to the examples to remember the options. 
+
+**Thoughts**: Really motivated to complete the Responsive Web Design Certification. Moving on to the Responsive Web Design Projects next!
+
+**Link(s) to work**: [Nothing Yet App](http://nothing.yet)
+
 ### Day X: MONTH DAY, 2019
 
 **Today's Progress**:
